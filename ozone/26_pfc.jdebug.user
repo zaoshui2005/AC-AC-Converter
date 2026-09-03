@@ -1,0 +1,32 @@
+
+
+
+GraphedExpression="(inverter_control_state).u_bc_v", Color=#e56a6f, Show=0
+OpenDocument="inverter_control.h", FilePath="D:/26_pfc/User/inverter_control/inverter_control.h", Line=117
+OpenDocument="startup_stm32g474xx.s", FilePath="D:/26_pfc/startup_stm32g474xx.s", Line=49
+OpenDocument="main.c", FilePath="D:/26_pfc/Core/Src/main.c", Line=133
+OpenDocument="inverter_adc.h", FilePath="D:/26_pfc/User/inverter_adc/inverter_adc.h", Line=115
+OpenDocument="inverter_adc.c", FilePath="D:/26_pfc/User/inverter_adc/inverter_adc.c", Line=0
+OpenDocument="pfc_adc.c", FilePath="D:/26_pfc/User/pfc_adc/pfc_adc.c", Line=79
+OpenDocument="inverter_adc_watchdog.c", FilePath="D:/26_pfc/User/inverter_adc_watchdog/inverter_adc_watchdog.c", Line=0
+OpenDocument="pfc_adc_watchdog.c", FilePath="D:/26_pfc/User/pfc_adc_watchdog/pfc_adc_watchdog.c", Line=0
+OpenDocument="stm32g4xx_hal_adc.c", FilePath="D:/26_pfc/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_adc.c", Line=3576
+OpenDocument="inverter_control.c", FilePath="D:/26_pfc/User/inverter_control/inverter_control.c", Line=0
+OpenDocument="Ozone_Watched_Data_1_260802.csv", FilePath="C:/Users/KK/Downloads/Ozone_Watched_Data_1_260802.csv", Line=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=514, h=950, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=591, h=950, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=2086, h=323, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Console", DockArea=BOTTOM, x=1, y=0, w=473, h=323, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[1435;100;100;100;286]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (inverter_control_state).u_bc_v"], ColWidths=[100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Max. Change", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[142;100;100;154;164;100;110;126;1090]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;904]
+WatchedExpression="inverter_control_state", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="inverter_modulation_mode", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="inverter_svpwm_state", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="inverter_control_state", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="average_value_v", RefreshRate=5, Window=Watched Data 1
